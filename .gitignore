@@ -1,0 +1,9 @@
+html/
+prod/
+CMakeFiles/
+Makefile
+protoype/CMakeCache.txt
+protoype/CMakeDoxyfile.in
+protoype/CMakeDoxygenDefaults.cmake
+protoype/cmake_install.cmake
+Makefile
