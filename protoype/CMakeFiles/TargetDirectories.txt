@@ -1,0 +1,4 @@
+/home/jpavlik/Documents/dev/Gen2D-Game-Engine/protoype/CMakeFiles/edit_cache.dir
+/home/jpavlik/Documents/dev/Gen2D-Game-Engine/protoype/CMakeFiles/rebuild_cache.dir
+/home/jpavlik/Documents/dev/Gen2D-Game-Engine/protoype/CMakeFiles/doc_doxygen.dir
+/home/jpavlik/Documents/dev/Gen2D-Game-Engine/protoype/CMakeFiles/game.dir

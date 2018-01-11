@@ -1,0 +1,5 @@
+OUTPUT_DIRECTORY       = /home/jpavlik/Documents/dev/Gen2D-Game-Engine/protoype/docs
+INPUT                  = /home/jpavlik/Documents/dev/Gen2D-Game-Engine/protoype/src/ /home/jpavlik/Documents/dev/Gen2D-Game-Engine/protoype/headers/ README.md
+GENERATE_HTML          = YES
+GENERATE_LATEX         = NO
+FILE_PATTERNS          = *.cpp *.hpp

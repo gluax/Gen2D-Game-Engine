@@ -1,0 +1,5 @@
+OUTPUT_DIRECTORY       = @CMAKE_CURRENT_BINARY_DIR@/docs
+INPUT                  = @CMAKE_CURRENT_SOURCE_DIR@/src/ @CMAKE_CURRENT_SOURCE_DIR@/headers/ README.md
+GENERATE_HTML          = YES
+GENERATE_LATEX         = NO
+FILE_PATTERNS          = *.cpp *.hpp
